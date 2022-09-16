@@ -82,12 +82,12 @@ hr.bottom{
 }
 .top_img{
   position: absolute;
-  top: 90px;
+  top: 100px;
   left: 65%;
 }
 .top_img2{
   position: absolute;
-  top: 180px;
+  top: 190px;
   left: 0px;
   padding-bottom: 10px;
 }
