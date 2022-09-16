@@ -1,0 +1,158 @@
+
+body{
+  margin: 0px;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: 300;
+  font-size: 15px;
+  text-align: center;
+}
+h1{
+  font-family: 'Permanent Marker', cursive;
+  font-size: 40px;
+  color: indianred;
+}
+h2{
+  font-family: 'Caveat', cursive;
+  font-size: 25px;
+  font-size: 25px;
+  color: lightcoral;
+} 
+h3{
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  color: lightsalmon;
+}
+.title{
+  background-color: #ffedeb;
+  padding-top: 20px;
+  padding-bottom: 160px;
+  padding-right: 25px;
+}
+.body{
+  background-color: #fff8f5;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 25px;  
+}
+.bottom{
+  background-color: lightcoral;
+  padding-bottom: 10px;
+  padding-right: 25px;
+  margin: auto;
+}
+
+a:link{
+  color: #ebd234;
+  text-decoration: none;
+}
+a:visited{
+  color: darksalmon; 
+  text-decoration: none;
+}
+.myButton {
+	background-color:#ffffff;
+  border:2px solid lightcoral;
+  border-radius: 5px;
+	display:inline-block;
+	cursor:pointer;
+  padding:0px 10px;
+  margin-top: 40px;
+}
+.myButton:hover {
+	background-color: lightpink;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+hr.title{
+  border: 0px;
+  border-top: 5px dotted indianred;
+}
+hr.body{
+  border: 0px;
+  border-bottom: 1px dashed #ebd234;
+  height: 0px;
+}
+hr.bottom{
+  border: 2px solid white;
+  border-right: none;
+  border-left: none;
+}
+.top_img{
+  position: absolute;
+  top: 90px;
+  left: 65%;
+}
+.top_img2{
+  position: absolute;
+  top: 180px;
+  left: 0px;
+  padding-bottom: 10px;
+}
+.face{
+  border-radius: 100px;
+  border: 1px solid indianred;
+}
+.language{
+  float: left; 
+  padding-left: 50px;
+}
+ul.language{
+  column-count: 2;
+}
+img.language{
+  float: left;
+  margin-left: 25%;
+}
+.lne{
+  float: right;
+}
+dt.lne{
+  float: left;
+  margin-left: 20%;
+  margin-right: 5px;
+  position: relative;
+}
+dd.lne{
+  text-align: left;
+  float: left;
+}
+img.lne{
+  margin-right:20%;
+}
+.skill{
+  text-align: left;
+  padding-bottom: 10px;
+}
+dt.skill{
+  float: left;
+  margin-right: 20px;
+}
+dd.skill{
+  margin-left: 0px;
+}
+img.skill{
+  float: left;
+  margin-right: 30px;
+  position: relative;
+  margin-left: 25%;
+}
+hr.contact{
+  border: 0px;
+  border-top: 5px dotted indianred;
+  padding: 10px;
+}
+input.contact{
+  margin-bottom: 15px;
+}
+.column{
+  float: left;
+  width: 100%;
+}
+
+.row:after{
+  content:"";
+  clear: both;
+}
