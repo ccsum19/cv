@@ -1,2 +1,3 @@
 # cv
-Web_programming
+## UGA Web Programming Assignment
+### By. Zoey Cho
