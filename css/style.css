@@ -87,7 +87,7 @@ hr.bottom{
 }
 .top_img2{
   position: absolute;
-  top: 190px;
+  top: 160px;
   left: 0px;
 }
 .face{
@@ -105,8 +105,7 @@ ul.language{
 }
 img.language{
   float: left;
-  margin-left: 20%;
-  position: relative;
+  margin-left: 25%;
 }
 .lne{
   float: right;
