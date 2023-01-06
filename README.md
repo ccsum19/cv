@@ -1,3 +1,4 @@
-# cv
-UGA Web Programming Assignment
-### By. Zoey Cho
+# Personal Webpage
+Aug.2022
+### with Html, css 
+
